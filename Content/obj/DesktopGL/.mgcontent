@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Samuel/Desktop/TEKA/Teka/Teka/Content/SongTeka.WAV</File>
+    <File>C:/Users/Samuel/Desktop/TEKA/Teka/Teka/Content/Click.wav</File>
+    <File>C:/Users/Samuel/Desktop/TEKA/Teka/Teka/Content/Classe.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
