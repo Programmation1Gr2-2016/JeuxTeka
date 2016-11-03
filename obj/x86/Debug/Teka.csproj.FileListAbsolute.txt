@@ -42,3 +42,5 @@ C:\Users\Samuel\Desktop\TEKA\Teka\Teka\bin\DesktopGL\x86\Debug\Content\BoiteText
 C:\Users\Samuel\Desktop\TEKA\Teka\Teka\bin\DesktopGL\x86\Debug\Content\BoiteTexteHaut.png
 C:\Users\Samuel\Desktop\TEKA\Teka\Teka\bin\DesktopGL\x86\Debug\Content\Classe.xnb
 C:\Users\Samuel\Desktop\TEKA\Teka\Teka\bin\DesktopGL\x86\Debug\Content\map_village2.png
+C:\Users\Samuel\Desktop\TEKA\Teka\obj\x86\Debug\Teka.exe
+C:\Users\Samuel\Desktop\TEKA\Teka\obj\x86\Debug\Teka.pdb
