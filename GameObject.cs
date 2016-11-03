@@ -14,6 +14,7 @@ namespace Teka
         public int vitesse;
         public Texture2D sprite;
         public bool estVivant;
+        public int simon;
 
     }
 }
